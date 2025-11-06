@@ -26,9 +26,9 @@ You're working on:
 - **Terminal 2**: Feature worktree - Testing OAuth refactor
 - **Terminal 3**: Different project - Refactoring API layer
 
-You get Slack notification about the auth bug. Which terminal was that? You scroll through 3 terminals, read conversation histories, lose 30 seconds.
+You get Slack notification about the auth bug. Which terminal was that? You scroll through 3 terminals, read conversation histories, lose xx seconds, adds cognitive load.
 
-**Repeat this 20 times a day = 10 minutes wasted.**
+**Repeat this 20 times a day = more cognitive load**
 
 ## The Solution
 
